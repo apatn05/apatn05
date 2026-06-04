@@ -106,7 +106,7 @@ I'm a **CS Student** based in **Los Angeles, CA**, passionate about **AI and Cyb
 
 ---
 
-<!--featured content -->
+<!--
 
 ## 📝 Featured Content & Publications
 
@@ -115,7 +115,6 @@ I'm a **CS Student** based in **Los Angeles, CA**, passionate about **AI and Cyb
 | 🚀 **Project** | [Open source project + one-line description] | [Star →](https://github.com/apatn05) |
 
 
-<!--collaborate, connect -->
 
 ## 🤝 Let's Collaborate
 
@@ -132,7 +131,8 @@ I'm open to **[Speaking / Mentoring / Collaborations / Consulting / Hiring]**.
 [![Website](https://img.shields.io/badge/Read%20My%20Work-Website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://your-website.com)
 
 </div>
-
+---
+-->
 
 <div align="center">
 
