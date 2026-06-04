@@ -87,8 +87,7 @@ I'm a **CS Student** based in **Los Angeles, CA**, passionate about **AI and Cyb
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apatn05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=12181C&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apatn05&layout=compact&hide_border=true&theme=tokyonight&bg_color=12181C&title_color=36BCF7&langs_count=8" alt="Top Languages" />
+<img src="./profile/stats.svg" alt="GitHub Stats" width="98%" />
 
 <br/>
 
