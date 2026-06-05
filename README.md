@@ -100,8 +100,6 @@ I'm a **CS Student** based in **Los Angeles, CA**, passionate about **AI and Cyb
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=apatn05&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" width="98%" />
-
 </div>
 
 ---
