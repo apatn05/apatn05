@@ -39,7 +39,6 @@
 I'm a **CS Student** based in **Los Angeles, CA**, passionate about **AI and Cybersecurity**.
 
 - 🌱 **Currently learning:** [Machine Learning, Analysis of Algorithms]
-- 📫 **Reach me at:** [arnav.p003@gmail.com](mailto:arnav.p003@gmail.com)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="98%" />
 
