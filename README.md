@@ -40,7 +40,7 @@ I'm a **CS Student** based in **Los Angeles, CA**, passionate about **AI and Cyb
 
 - 🌱 **Currently learning:** [Agentic AI, Cryptography]
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="98%" />
+<img src="https://raw.githubusercontent.com/apatn05/apatn05/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="98%" />
 
 <!--tech stuff-->
 
@@ -96,7 +96,9 @@ I'm a **CS Student** based in **Los Angeles, CA**, passionate about **AI and Cyb
 
 <br/>
 
+<!-- Contribution graph disabled: public server (github-readme-activity-graph.vercel.app) is paused. Self-host it on Vercel and re-enable.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=apatn05&bg_color=12181C&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="98%" />
+-->
 
 <br/>
 
